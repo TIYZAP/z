@@ -7,3 +7,5 @@ This is a more stripped down version of my previous repository "Zombie"; There w
 - https://www.youtube.com/watch?v=Dj19O9kLK6w
 - https://www.codeschool.com/courses/testing-with-rspec
 - http://www.relishapp.com/rspec/rspec-rails/v/3-5/docs/gettingstarted
+
+This is a test to see if I can git clone and push correctly between CPU's...b/c I have a total of 4 Macbooks in front of me ATM.
